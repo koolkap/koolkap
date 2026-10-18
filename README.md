@@ -26,25 +26,17 @@
 
 <br/>
 
-<!-- ================= PROFESSIONAL BADGES ================= -->
+<!-- ================= FIXED PROFILE BADGES ================= -->
 
 <a href="https://github.com/koolkap">
-<img src="https://img.shields.io/badge/GitHub-koolkap-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://www.avidialabs.com">
-<img src="https://img.shields.io/badge/CTO-Avidia%20Labs-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avidia Labs"/>
+<img src="https://img.shields.io/badge/Follow-koolkap-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Ajit on GitHub"/>
 </a>
 <a href="https://github.com/koolkap?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Projects-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/koolkap?tab=followers">
-<img src="https://img.shields.io/github/followers/koolkap?style=social&label=Follow" alt="GitHub followers"/>
+<a href="https://www.avidialabs.com">
+<img src="https://img.shields.io/badge/Website-Avidia%20Labs-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avidia Labs website"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=koolkap&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
@@ -189,7 +181,7 @@ Educational Technology · Interactive Learning · 3D Applications
 <div align="center">
 
 <a href="https://github.com/koolkap?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore all repositories"/>
 </a>
 
 </div>
@@ -257,7 +249,7 @@ Interested in AI engineering, Generative AI, RAG, cloud technologies, or immersi
 <br/>
 
 <a href="https://github.com/koolkap">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 <a href="https://www.avidialabs.com">
