@@ -163,7 +163,7 @@ Exploring interactive learning experiences that bring programming, creativity, a
 ## 📡 LIVE GITHUB ACTIVITY
 
 <!-- ACTIVITY_START -->
-Loading recent GitHub activity...
+No recent public coding activity found.
 <!-- ACTIVITY_END -->
 
 ---
