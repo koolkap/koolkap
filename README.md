@@ -44,7 +44,7 @@ software engineering, and interactive 3D experiences.**
 ## 🔥 Latest GitHub Activity
 
 <!-- ACTIVITY_START -->
-Loading recent GitHub activity...
+No recent public coding activity found.
 <!-- ACTIVITY_END -->
 
 ## 📊 GitHub Analytics
