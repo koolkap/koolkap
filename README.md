@@ -193,7 +193,7 @@ Educational Technology · Interactive Learning · 3D Applications
 ## 📡 Latest GitHub Activity
 
 <!-- ACTIVITY_START -->
-Loading recent GitHub activity...
+No recent public coding activity found.
 <!-- ACTIVITY_END -->
 
 ---
