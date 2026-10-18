@@ -1,8 +1,14 @@
+<!-- =========================================================
+     AJIT KOHIR | GITHUB PROFILE
+     Repository: koolkap/koolkap
+     Avatar: my-image-3d-avatar.png
+========================================================= -->
+
 <!-- ================= FUTURISTIC HEADER ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:102A56,100:00D4FF&text=AJIT%20KOHIR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%203D%20WEB%20%7C%20INNOVATION&descSize=15&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:102A56,100:00D4FF&text=AJIT%20KOHIR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20GENERATIVE%20AI%20%7C%203D%20WEB%20%7C%20INNOVATION&descSize=15&descAlignY=60&animation=fadeIn" alt="Ajit Kohir futuristic header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=CTO+%7C+AI+Engineer+%7C+Builder;Generative+AI+%7C+RAG+%7C+LLMs;Building+Intelligent+Applications;Creating+Immersive+3D+Experiences" alt="Animated introduction"/>
@@ -20,19 +26,40 @@
 
 <br/>
 
+<!-- ================= PROFESSIONAL BADGES ================= -->
+
+<a href="https://github.com/koolkap">
+<img src="https://img.shields.io/badge/GitHub-koolkap-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.avidialabs.com">
+<img src="https://img.shields.io/badge/CTO-Avidia%20Labs-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avidia Labs"/>
+</a>
 <a href="https://github.com/koolkap?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Explore-My%20Projects-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects"/>
 </a>
 
-<a href="https://www.avidialabs.com">
-<img src="https://img.shields.io/badge/AVIDIA-LABS-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<br/><br/>
+
+<a href="https://github.com/koolkap?tab=followers">
+<img src="https://img.shields.io/github/followers/koolkap?style=social&label=Follow" alt="GitHub followers"/>
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=koolkap&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-00D4FF?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/WebGPU-2563EB?style=flat-square" alt="WebGPU"/>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= ABOUT ME ================= -->
 
 ## ⚡ About Me
 
@@ -40,30 +67,32 @@
 <tr>
 <td width="65%" valign="top">
 
-I'm a technology leader and builder passionate about turning emerging technologies into real-world products.
+### 🚀 Engineer. Innovator. Builder.
 
-- 🤖 Generative AI applications and intelligent workflows
-- 🧠 Retrieval-Augmented Generation (RAG) and LLMs
-- ☁️ Cloud architecture and AI engineering
-- 🌐 Interactive 3D web experiences
-- 🎓 Educational technology and immersive learning
-- 🚀 Engineering leadership and product development
+I'm a technology leader passionate about turning emerging technologies into useful, real-world products.
 
-**My mission:** Turn ambitious ideas into useful, scalable technology.
+- 🤖 Building generative AI applications and intelligent workflows
+- 🧠 Exploring RAG, LLMs, and AI-powered assistants
+- ☁️ Developing cloud-based AI solutions
+- 🌐 Creating interactive 3D web experiences
+- 🎓 Building technology for immersive learning
+- 🛠️ Leading engineering teams and delivering products
+
+**My philosophy:** Build things that solve real problems.
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./my-image-3d-avatar.png" width="170" alt="3D avatar"/>
+<img src="./my-image-3d-avatar.png" width="170" alt="Ajit Kohir 3D avatar"/>
 
 <br/><br/>
 
 <a href="https://github.com/koolkap">
-<img src="https://img.shields.io/badge/GitHub-koolkap-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Developer-GitHub-181717?style=flat-square&logo=github" alt="Developer profile"/>
 </a>
 
 <a href="https://www.avidialabs.com">
-<img src="https://img.shields.io/badge/Website-Avidia%20Labs-7C3AED?style=flat-square&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Company-Avidia%20Labs-7C3AED?style=flat-square" alt="Avidia Labs website"/>
 </a>
 
 </td>
@@ -72,37 +101,39 @@ I'm a technology leader and builder passionate about turning emerging technologi
 
 ---
 
-<!-- ================= TECHNOLOGY ================= -->
+<!-- ================= TECHNOLOGY STACK ================= -->
 
-## 🧰 Technology Stack
+## 🧰 Technology Universe
 
 <div align="center">
 
-**Languages & Frameworks**
+### 💻 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,django,html,css,threejs&theme=dark" alt="Languages and frameworks"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,django,html,css,threejs&theme=dark" alt="Programming languages and frameworks"/>
 
 <br/><br/>
 
-**Cloud & Development Tools**
+### ☁️ Cloud & Development
 
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,vscode&theme=dark" alt="Cloud and development tools"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebGPU-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebXR-059669?style=for-the-badge"/>
+### 🧠 Specializations
+
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-00D4FF?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLMs-EC4899?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/WebGPU-2563EB?style=for-the-badge" alt="WebGPU"/>
+<img src="https://img.shields.io/badge/WebXR-059669?style=for-the-badge" alt="WebXR"/>
 
 </div>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= PROJECT SHOWCASE ================= -->
 
-## 🚀 What I'm Building
+## 🔥 What I'm Building
 
 <table>
 <tr>
@@ -112,16 +143,20 @@ I'm a technology leader and builder passionate about turning emerging technologi
 
 Building AI-powered applications, intelligent assistants, and LLM-driven workflows.
 
-**Focus:** Generative AI · Prompt Engineering · AI Agents
+**Focus**
+
+Generative AI · AI Engineering · Prompt Engineering
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 RAG & AI Systems
 
-Exploring retrieval-augmented generation, document search, and context-aware AI assistants.
+Exploring retrieval-augmented generation, document search, and context-aware assistants.
 
-**Focus:** RAG · Embeddings · Vector Search · LLMs
+**Focus**
+
+RAG · Embeddings · Vector Search · LLMs
 
 </td>
 </tr>
@@ -132,16 +167,20 @@ Exploring retrieval-augmented generation, document search, and context-aware AI 
 
 Creating browser-based 3D applications and immersive digital experiences.
 
-**Focus:** Three.js · WebGL · WebGPU · WebXR
+**Focus**
+
+Three.js · WebGL · WebGPU · WebXR
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & EdTech
+### 🎓 EdTech Innovation
 
-Developing cloud-based applications and interactive technology for learning.
+Developing interactive learning experiences that bring programming, creativity, and technology together.
 
-**Focus:** Azure AI · Python · APIs · Educational Technology
+**Focus**
+
+Educational Technology · Interactive Learning · 3D Applications
 
 </td>
 </tr>
@@ -150,14 +189,14 @@ Developing cloud-based applications and interactive technology for learning.
 <div align="center">
 
 <a href="https://github.com/koolkap?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW-ALL%20REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ================= LIVE ACTIVITY ================= -->
+<!-- ================= AUTOMATED GITHUB ACTIVITY ================= -->
 
 ## 📡 Latest GitHub Activity
 
@@ -183,7 +222,7 @@ Loading recent GitHub activity...
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -195,6 +234,12 @@ Loading recent GitHub activity...
 
 <a href="https://github.com/koolkap">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolkap&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" alt="Most-used programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/koolkap">
+<img src="https://streak-stats.demolab.com?user=koolkap&theme=tokyonight&hide_border=true&background=050816&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF" alt="GitHub contribution streak"/>
 </a>
 
 </div>
@@ -209,12 +254,14 @@ Loading recent GitHub activity...
 
 Interested in AI engineering, Generative AI, RAG, cloud technologies, or immersive 3D experiences?
 
+<br/>
+
 <a href="https://github.com/koolkap">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
 </a>
 
 <a href="https://www.avidialabs.com">
-<img src="https://img.shields.io/badge/Website-Avidia%20Labs-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+<img src="https://img.shields.io/badge/Website-Avidia%20Labs-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Avidia Labs website"/>
 </a>
 
 <br/><br/>
@@ -223,6 +270,6 @@ Interested in AI engineering, Generative AI, RAG, cloud technologies, or immersi
 
 *The future belongs to people who build it.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:102A56,100:00D4FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:102A56,100:00D4FF" alt="Futuristic footer"/>
 
 </div>
